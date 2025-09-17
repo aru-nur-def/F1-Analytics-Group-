@@ -41,6 +41,6 @@ Apache Superset — визуализация аналитики;
 GitHub — хранение кода и документации.
 
 Instructions
-Клонируйте репозиторий:
    bash
-   git clone https://github.com/yourusername/f1-analytics.git
+   git clone (https://github.com/aru-nur-def/F1-Analytics-Group-.git)
+

@@ -32,7 +32,7 @@ Dataset
 - `sprint_results` — результаты спринтов;
 - `seasons` — список сезонов.
 
-📊 Общий размер: более 300 000 строк.
+📊 Общий размер: 703 451 строк.
 
 Tools & Resources
 MySQL — база данных;
@@ -42,5 +42,6 @@ GitHub — хранение кода и документации.
 
 Instructions
    bash
-   git clone (https://github.com/aru-nur-def/F1-Analytics-Group-.git)
+   git clone https://github.com/aru-nur-def/F1-Analytics-Group-.git
+
 

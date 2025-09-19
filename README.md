@@ -36,10 +36,11 @@
  **GitHub** — хранение кода и документации  
 
 ## 🚀 **Instructions**
-   bash
-   git clone https://github.com/aru-nur-def/F1-Analytics-Group-.git
-   Dataset
-   Используемый датасет: [Formula 1 World Championship (1950–2020)] (https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020).
+   **bash**
+   **git clone** https://github.com/aru-nur-def/F1-Analytics-Group-.git
+   **Dataset**
+   **Используемый датасет:** [Formula 1 World Championship (1950–2020)] (https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020).
+
 
 
 

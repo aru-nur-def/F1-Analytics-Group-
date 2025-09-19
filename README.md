@@ -27,7 +27,7 @@
 - 'seasons' — список сезонов.
 <img width="404" height="439" alt="image" src="https://github.com/user-attachments/assets/43049de6-36c4-4d7e-86f3-c903e58d8ef8" />
 
-Общий размер: 703 451 строк.
+**Общий размер: 703 451 строк.**
 
 ## 🛠️ **Tools & Resources**
 
@@ -41,6 +41,7 @@
    **git clone** https://github.com/aru-nur-def/F1-Analytics-Group-.git
    **Dataset**
    **Используемый датасет:** [Formula 1 World Championship (1950–2020)] (https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020).
+
 
 
 
